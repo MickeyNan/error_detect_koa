@@ -1,0 +1,22 @@
+{
+  "name": "Premium",
+  "version": "0.0.1",
+  "description": "N-club for koa.",
+  "dependencies": {
+    "config-lite": "1.2.0",
+    "koa": "2",
+    "mongoose": "latest",
+    "koa-hbs":"latest",
+    "co":"latest",
+    "safejson":"latest",
+    "koa-route":"latest",
+    "koa-session":"latest",
+    "koa-csrf":"latest",
+    "koa-session-mongoose":"latest",
+    "koa-session-store":"latest",
+    "request-promise":"latest",
+    "co-body":"latest",
+    "koa-bodyparser":"latest",
+    "JSON":"latest"
+  }
+}
